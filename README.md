@@ -1,6 +1,6 @@
 # Unicorn-Analysis
 In this repository I Analyzed a dataset from Kaggle using Excel to draw conclusions and presented them as a dashboard.
-I encourage you to take a look at the full Excel file in this repo and not to be satisfied with the dashboard image below.
+I encourage you to take a look at the full Excel file in this repo and not to be satisfied with the dashboard image down below.
 
 ## Skills Used
 * EDA
@@ -21,3 +21,4 @@ I downloaded this dataset from Kaggle that contains information about unicorn co
 4.	The leading industries by number of unicorn companies are fintech (205), internet software & services (192) and e-commerce & direct to consumer (107).
 
 ## The Final Dashboard
+![](https://github.com/YardenHodeda/Unicorn-Analysis/blob/9aceeb3297197d5da7d7c021c7e5208e803ede15/Dashboard.jpg)
