@@ -13,7 +13,7 @@ In this repository I Analyzed a dataset from Kaggle using Excel to draw conclusi
 * Creating a dashboard
 
 ## About The Process
-I downloaded this dataset from Kaggle that contains information about unicorn companies around the world. I had to clean it due to missing information in some cells and mistakes with names of countries and cities such as Singapore and The Bahamas. I then explored the data a little bit further, I created a special column for exits index by using formulas in Excel. I added filter that allowed me to work more efficiently. I also created a column for investors count brackets to present the in a logical way. After that I proceed to creating pivot tables with the clean data. The pivot tables were used to create a data dashboard that presents the findings from the data set.
+I downloaded this dataset from Kaggle that contains information about unicorn companies around the world. I had to clean it due to missing information in some cells and mistakes with names of countries and cities such as Singapore and The Bahamas. I then explored the data a little bit further, I created a special column for exits index by using formulas in Excel. I added filter that allowed me to work more efficiently. I also created a column for investors count brackets to present the in a more logical way. After that I proceed to creating pivot tables with the clean data. The pivot tables were used to create a data dashboard that presents the findings from the data set. In the dashboard I added a slicer to filter the result. 
 
 ## Top Findings 
 1.	The leading countries by number of unicorn companies are U.S.A (536), China (168) and India (63).
